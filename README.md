@@ -76,10 +76,10 @@ Once you generate predicted trajectories from each tracker, place them in a stru
 If you use this code or build upon this analysis or use Holoset, please cite:
 
 ```bibtex
-@inproceedings{chandio2024stealthy,
-  title={Stealthy and Practical Multi-Modal Attacks on Mixed Reality Tracking},
-  author={Chandio, Yasra and Bashir, Noman and Anwar, Fatima M.},
-  booktitle={Proceedings of the IEEE International Conference on Artificial Intelligence and Virtual Reality (AIVR)},
+@article{chandio2024lost,
+  title={Lost in Tracking Translation: A Comprehensive Analysis of Visual SLAM in Human-Centered XR and IoT Ecosystems},
+  author={Chandio, Yasra and Selialia, Khotso and DeGol, Joseph and Garcia, Luis and Anwar, Fatima M},
+  journal={arXiv preprint arXiv:2411.07146},
   year={2024}
 }
 
