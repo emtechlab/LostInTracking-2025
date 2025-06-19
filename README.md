@@ -1,7 +1,5 @@
 # LostInTracking-2025
 
-# LostInTracking-2025
-
 This repository contains the evaluation and analysis code for the paper:
 
 📄 **Lost in Tracking Translation: A Comprehensive Analysis of Visual SLAM in Human-Centered XR and IoT Ecosystems**  
